@@ -1,0 +1,10 @@
+{
+  "language_select_info": "Sélectionnez la langue que vous souhaitez utiliser",
+  "selected_language": "Vous avez sélectionné la langue {language}",
+  "french": "Français",
+  "parent": {
+    "child": {
+      "inner_child": "Enfant intérieur"
+    }
+  }
+}

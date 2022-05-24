@@ -1,4 +1,4 @@
-# vue-app
+# vue-internationalization
 
 ## Project setup
 ```
